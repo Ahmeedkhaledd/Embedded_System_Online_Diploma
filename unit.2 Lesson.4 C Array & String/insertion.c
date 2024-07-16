@@ -32,5 +32,6 @@ int main()
         printf("%d ", elem[i]);
         
     }
+    //
 
 }
